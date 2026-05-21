@@ -1,0 +1,964 @@
+{
+  "metadata": {
+    "sourceFile": "raw-data-final-with-bushai-v2.json",
+    "generatedFile": "championship-sunday-report-view.json",
+    "reportViewVersion": "championship-sunday-report-view-v1",
+    "narrativeChoices": {
+      "mainNarrativeStyle": "mixed: TBG dominance + awards recap + BushAI rankings",
+      "focus": "balanced teams and players",
+      "cammyFraming": "both Best Overall Player and Sunday Champion MVP",
+      "includeOpposingTeamHighlights": true,
+      "detailLevel": "medium"
+    }
+  },
+  "heroSummary": {
+    "title": "Championship Sunday BushAI Report",
+    "mainHeadline": "Telluride Bush Gaming controlled Championship Sunday.",
+    "subHeadline": "TBG finished 10-2 by map record, Cammy led the player field, and Capsidal produced the biggest single-map moment.",
+    "quickFacts": [
+      {
+        "label": "Sunday Champion",
+        "value": "TELLURIDE BUSH GAMING"
+      },
+      {
+        "label": "Champion Record",
+        "value": "10-2"
+      },
+      {
+        "label": "Best Overall Player",
+        "value": "Cammy"
+      },
+      {
+        "label": "Sunday Champion MVP",
+        "value": "Cammy"
+      },
+      {
+        "label": "Best Non-Champion Player",
+        "value": "Ethan"
+      },
+      {
+        "label": "Moment of the Day",
+        "value": "Capsidal - 45 kills on SAKE"
+      }
+    ]
+  },
+  "awards": {
+    "sundayChampion": {
+      "rank": 1,
+      "teamName": "TELLURIDE BUSH GAMING",
+      "record": "10-2",
+      "winRate": 0.8333,
+      "bushAiRating": 76.25,
+      "bushAiRankScore": 100.0,
+      "kdRatio": 1.125,
+      "averageScoreMargin": 31.08,
+      "storyTags": [
+        "Sunday Champion",
+        "Dominant Sunday",
+        "Elite Team Slaying"
+      ]
+    },
+    "bestOverallPlayer": {
+      "rank": 1,
+      "playerName": "Cammy",
+      "teamName": "TELLURIDE BUSH GAMING",
+      "record": "10-2",
+      "bushAiRating": 84.7,
+      "bushAiRankScore": 100.0,
+      "kdRatio": 1.239,
+      "damage": 33962,
+      "averageDamagePerMap": 2830.17,
+      "storyTags": [
+        "Best Overall Player",
+        "Sunday Champion",
+        "Elite Slayer",
+        "High Win Rate"
+      ]
+    },
+    "sundayChampionMvp": {
+      "rank": 1,
+      "playerName": "Cammy",
+      "teamName": "TELLURIDE BUSH GAMING",
+      "record": "10-2",
+      "bushAiRating": 84.7,
+      "bushAiRankScore": 100.0,
+      "kdRatio": 1.239,
+      "damage": 33962,
+      "averageDamagePerMap": 2830.17,
+      "storyTags": [
+        "Best Overall Player",
+        "Sunday Champion",
+        "Elite Slayer",
+        "High Win Rate"
+      ]
+    },
+    "bestSingleMapPerformance": {
+      "playerName": "Capsidal",
+      "teamName": "TELLURIDE BUSH GAMING",
+      "roundKey": "losers-bracket:Round6",
+      "roundMultiplier": 1.2,
+      "mode": "HARDPOINT",
+      "map": "SAKE",
+      "teamWonMap": true,
+      "kills": 45,
+      "deaths": 30,
+      "damage": 4971,
+      "bushAiMapScoreBase": 99.539,
+      "bushAiMapScoreWeighted": 119.4468
+    },
+    "bestNonChampionPlayer": {
+      "rank": 5,
+      "playerName": "Ethan",
+      "teamName": "OMIT",
+      "record": "3-6",
+      "bushAiRating": 63.97,
+      "bushAiRankScore": 69.46,
+      "kdRatio": 0.976,
+      "damage": 25321,
+      "averageDamagePerMap": 2813.44,
+      "storyTags": []
+    },
+    "mostCompleteRoster": {
+      "teamName": "TELLURIDE BUSH GAMING",
+      "reason": "Top team ranking plus four champion players in the top player group.",
+      "players": [
+        {
+          "rank": 1,
+          "playerName": "Cammy",
+          "teamName": "TELLURIDE BUSH GAMING",
+          "record": "10-2",
+          "bushAiRating": 84.7,
+          "bushAiRankScore": 100.0,
+          "kdRatio": 1.239,
+          "damage": 33962,
+          "averageDamagePerMap": 2830.17,
+          "storyTags": [
+            "Best Overall Player",
+            "Sunday Champion",
+            "Elite Slayer",
+            "High Win Rate"
+          ]
+        },
+        {
+          "rank": 2,
+          "playerName": "PROLUTE",
+          "teamName": "TELLURIDE BUSH GAMING",
+          "record": "10-2",
+          "bushAiRating": 83.72,
+          "bushAiRankScore": 97.82,
+          "kdRatio": 1.213,
+          "damage": 33806,
+          "averageDamagePerMap": 2817.17,
+          "storyTags": [
+            "Sunday Champion",
+            "Elite Slayer",
+            "High Win Rate"
+          ]
+        },
+        {
+          "rank": 3,
+          "playerName": "Abe",
+          "teamName": "TELLURIDE BUSH GAMING",
+          "record": "10-2",
+          "bushAiRating": 78.9,
+          "bushAiRankScore": 96.36,
+          "kdRatio": 1.063,
+          "damage": 32054,
+          "averageDamagePerMap": 2671.17,
+          "storyTags": [
+            "Sunday Champion",
+            "High Win Rate"
+          ]
+        },
+        {
+          "rank": 4,
+          "playerName": "Capsidal",
+          "teamName": "TELLURIDE BUSH GAMING",
+          "record": "10-2",
+          "bushAiRating": 75.19,
+          "bushAiRankScore": 89.22,
+          "kdRatio": 1.017,
+          "damage": 29117,
+          "averageDamagePerMap": 2426.42,
+          "storyTags": [
+            "Sunday Champion",
+            "High Win Rate"
+          ]
+        }
+      ]
+    }
+  },
+  "teamRankings": [
+    {
+      "rank": 1,
+      "teamName": "TELLURIDE BUSH GAMING",
+      "record": "10-2",
+      "winRate": 0.8333,
+      "bushAiRating": 76.25,
+      "bushAiRankScore": 100.0,
+      "kdRatio": 1.125,
+      "averageScoreMargin": 31.08,
+      "storyTags": [
+        "Sunday Champion",
+        "Dominant Sunday",
+        "Elite Team Slaying"
+      ]
+    },
+    {
+      "rank": 2,
+      "teamName": "OMIT",
+      "record": "3-6",
+      "winRate": 0.3333,
+      "bushAiRating": 44.63,
+      "bushAiRankScore": 52.56,
+      "kdRatio": 0.949,
+      "averageScoreMargin": 3.33,
+      "storyTags": []
+    },
+    {
+      "rank": 3,
+      "teamName": "OMIT BROOKLYN",
+      "record": "3-5",
+      "winRate": 0.375,
+      "bushAiRating": 45.82,
+      "bushAiRankScore": 47.26,
+      "kdRatio": 0.974,
+      "averageScoreMargin": -24.12,
+      "storyTags": []
+    },
+    {
+      "rank": 4,
+      "teamName": "FAZE FALCONS",
+      "record": "0-3",
+      "winRate": 0.0,
+      "bushAiRating": 20.14,
+      "bushAiRankScore": 0.0,
+      "kdRatio": 0.707,
+      "averageScoreMargin": -70.0,
+      "storyTags": []
+    }
+  ],
+  "playerRankings": [
+    {
+      "rank": 1,
+      "playerName": "Cammy",
+      "teamName": "TELLURIDE BUSH GAMING",
+      "record": "10-2",
+      "bushAiRating": 84.7,
+      "bushAiRankScore": 100.0,
+      "kdRatio": 1.239,
+      "damage": 33962,
+      "averageDamagePerMap": 2830.17,
+      "storyTags": [
+        "Best Overall Player",
+        "Sunday Champion",
+        "Elite Slayer",
+        "High Win Rate"
+      ]
+    },
+    {
+      "rank": 2,
+      "playerName": "PROLUTE",
+      "teamName": "TELLURIDE BUSH GAMING",
+      "record": "10-2",
+      "bushAiRating": 83.72,
+      "bushAiRankScore": 97.82,
+      "kdRatio": 1.213,
+      "damage": 33806,
+      "averageDamagePerMap": 2817.17,
+      "storyTags": [
+        "Sunday Champion",
+        "Elite Slayer",
+        "High Win Rate"
+      ]
+    },
+    {
+      "rank": 3,
+      "playerName": "Abe",
+      "teamName": "TELLURIDE BUSH GAMING",
+      "record": "10-2",
+      "bushAiRating": 78.9,
+      "bushAiRankScore": 96.36,
+      "kdRatio": 1.063,
+      "damage": 32054,
+      "averageDamagePerMap": 2671.17,
+      "storyTags": [
+        "Sunday Champion",
+        "High Win Rate"
+      ]
+    },
+    {
+      "rank": 4,
+      "playerName": "Capsidal",
+      "teamName": "TELLURIDE BUSH GAMING",
+      "record": "10-2",
+      "bushAiRating": 75.19,
+      "bushAiRankScore": 89.22,
+      "kdRatio": 1.017,
+      "damage": 29117,
+      "averageDamagePerMap": 2426.42,
+      "storyTags": [
+        "Sunday Champion",
+        "High Win Rate"
+      ]
+    },
+    {
+      "rank": 5,
+      "playerName": "Ethan",
+      "teamName": "OMIT",
+      "record": "3-6",
+      "bushAiRating": 63.97,
+      "bushAiRankScore": 69.46,
+      "kdRatio": 0.976,
+      "damage": 25321,
+      "averageDamagePerMap": 2813.44,
+      "storyTags": []
+    },
+    {
+      "rank": 6,
+      "playerName": "dk",
+      "teamName": "OMIT",
+      "record": "3-6",
+      "bushAiRating": 64.78,
+      "bushAiRankScore": 66.32,
+      "kdRatio": 1.043,
+      "damage": 24890,
+      "averageDamagePerMap": 2765.56,
+      "storyTags": []
+    },
+    {
+      "rank": 7,
+      "playerName": "Killy",
+      "teamName": "OMIT",
+      "record": "3-6",
+      "bushAiRating": 61.82,
+      "bushAiRankScore": 62.3,
+      "kdRatio": 0.964,
+      "damage": 24277,
+      "averageDamagePerMap": 2697.44,
+      "storyTags": []
+    },
+    {
+      "rank": 8,
+      "playerName": "PaulEhx",
+      "teamName": "OMIT BROOKLYN",
+      "record": "3-5",
+      "bushAiRating": 63.95,
+      "bushAiRankScore": 59.8,
+      "kdRatio": 0.969,
+      "damage": 22269,
+      "averageDamagePerMap": 2783.62,
+      "storyTags": []
+    },
+    {
+      "rank": 9,
+      "playerName": "Standy",
+      "teamName": "OMIT BROOKLYN",
+      "record": "3-5",
+      "bushAiRating": 64.14,
+      "bushAiRankScore": 58.32,
+      "kdRatio": 1.0,
+      "damage": 21903,
+      "averageDamagePerMap": 2737.88,
+      "storyTags": []
+    },
+    {
+      "rank": 10,
+      "playerName": "DillonWrecks",
+      "teamName": "OMIT BROOKLYN",
+      "record": "3-5",
+      "bushAiRating": 67.01,
+      "bushAiRankScore": 58.26,
+      "kdRatio": 1.074,
+      "damage": 23133,
+      "averageDamagePerMap": 2891.62,
+      "storyTags": []
+    },
+    {
+      "rank": 11,
+      "playerName": "dnza",
+      "teamName": "OMIT",
+      "record": "3-6",
+      "bushAiRating": 53.44,
+      "bushAiRankScore": 50.22,
+      "kdRatio": 0.816,
+      "damage": 20373,
+      "averageDamagePerMap": 2263.67,
+      "storyTags": []
+    },
+    {
+      "rank": 12,
+      "playerName": "2ReaL",
+      "teamName": "OMIT BROOKLYN",
+      "record": "3-2",
+      "bushAiRating": 65.76,
+      "bushAiRankScore": 39.31,
+      "kdRatio": 0.98,
+      "damage": 11826,
+      "averageDamagePerMap": 2365.2,
+      "storyTags": []
+    }
+  ],
+  "storylines": [
+    {
+      "id": "tbg-controlled-sunday",
+      "title": "Telluride Bush Gaming controlled Championship Sunday",
+      "supportingStats": [
+        {
+          "label": "Map record",
+          "value": "10-2"
+        },
+        {
+          "label": "Team BushAI Rating",
+          "value": 76.25
+        },
+        {
+          "label": "Win rate",
+          "value": 0.8333
+        }
+      ],
+      "recommendedUse": "Opening report headline"
+    },
+    {
+      "id": "cammy-mvp",
+      "title": "Cammy was both the Best Overall Player and Sunday Champion MVP",
+      "supportingStats": [
+        {
+          "label": "Player rank",
+          "value": 1
+        },
+        {
+          "label": "BushAI Rating",
+          "value": 84.7
+        },
+        {
+          "label": "Team record",
+          "value": "10-2"
+        }
+      ],
+      "recommendedUse": "MVP card or player spotlight"
+    },
+    {
+      "id": "capsidal-peak-moment",
+      "title": "Capsidal delivered the signature single-map moment",
+      "supportingStats": [
+        {
+          "label": "Performance",
+          "value": "45 kills on HARDPOINT SAKE"
+        },
+        {
+          "label": "BushAI map score",
+          "value": 119.4468
+        }
+      ],
+      "recommendedUse": "Moment of the Day"
+    },
+    {
+      "id": "best-non-champion",
+      "title": "Ethan led the non-champion field",
+      "supportingStats": [
+        {
+          "label": "Player",
+          "value": "Ethan"
+        },
+        {
+          "label": "Team",
+          "value": "OMIT"
+        },
+        {
+          "label": "BushAI Rating",
+          "value": 63.97
+        }
+      ],
+      "recommendedUse": "Opposition highlight"
+    }
+  ],
+  "keyGames": {
+    "bestSingleMapPerformance": {
+      "playerName": "Capsidal",
+      "teamName": "TELLURIDE BUSH GAMING",
+      "roundKey": "losers-bracket:Round6",
+      "roundMultiplier": 1.2,
+      "mode": "HARDPOINT",
+      "map": "SAKE",
+      "teamWonMap": true,
+      "kills": 45,
+      "deaths": 30,
+      "damage": 4971,
+      "bushAiMapScoreBase": 99.539,
+      "bushAiMapScoreWeighted": 119.4468
+    },
+    "largestTeamWin": {
+      "seriesId": "losers-bracket-round5-faze-x-falcons-vs-telluride-bush-gaming",
+      "bracket": "losers-bracket",
+      "round": "Round5",
+      "roundKey": "losers-bracket:Round5",
+      "roundMultiplier": 1.1,
+      "matchNumber": 1,
+      "mode": "HARDPOINT",
+      "map": "DEN",
+      "score": "250 - 48",
+      "winner": "TELLURIDE BUSH GAMING",
+      "loser": "FAZE FALCONS",
+      "bestTeamPerformance": {
+        "teamName": "TELLURIDE BUSH GAMING",
+        "bushAiMapScoreWeighted": 102.3868,
+        "teamWonMap": true,
+        "scoreMargin": 202.0
+      },
+      "bestPlayerPerformance": {
+        "playerName": "Abe",
+        "teamName": "TELLURIDE BUSH GAMING",
+        "bushAiMapScoreWeighted": 79.7853,
+        "kills": 25,
+        "deaths": 11,
+        "damage": 2596
+      }
+    },
+    "grandFinalsGames": [
+      {
+        "seriesId": "grand-finals-round1-omit-vs-telluride-bush-gaming",
+        "bracket": "grand-finals",
+        "round": "Round1",
+        "roundKey": "grand-finals:Round1",
+        "roundMultiplier": 1.3,
+        "matchNumber": 1,
+        "mode": "HARDPOINT",
+        "map": "GRIDLOCK",
+        "score": "232 - 250",
+        "winner": "OMIT",
+        "loser": "TELLURIDE BUSH GAMING",
+        "bestTeamPerformance": {
+          "teamName": "OMIT",
+          "bushAiMapScoreWeighted": 113.8837,
+          "teamWonMap": true,
+          "scoreMargin": 18.0
+        },
+        "bestPlayerPerformance": {
+          "playerName": "dk",
+          "teamName": "OMIT",
+          "bushAiMapScoreWeighted": 112.8914,
+          "kills": 33,
+          "deaths": 28,
+          "damage": 4406
+        }
+      },
+      {
+        "seriesId": "grand-finals-round1-omit-vs-telluride-bush-gaming",
+        "bracket": "grand-finals",
+        "round": "Round1",
+        "roundKey": "grand-finals:Round1",
+        "roundMultiplier": 1.3,
+        "matchNumber": 2,
+        "mode": "SEARCH_AND_DESTROY",
+        "map": "RAID",
+        "score": "1 - 6",
+        "winner": "TELLURIDE BUSH GAMING",
+        "loser": "OMIT",
+        "bestTeamPerformance": {
+          "teamName": "TELLURIDE BUSH GAMING",
+          "bushAiMapScoreWeighted": 70.9389,
+          "teamWonMap": true,
+          "scoreMargin": 5.0
+        },
+        "bestPlayerPerformance": {
+          "playerName": "Abe",
+          "teamName": "TELLURIDE BUSH GAMING",
+          "bushAiMapScoreWeighted": 61.1861,
+          "kills": 11,
+          "deaths": 6,
+          "damage": 1547
+        }
+      },
+      {
+        "seriesId": "grand-finals-round1-omit-vs-telluride-bush-gaming",
+        "bracket": "grand-finals",
+        "round": "Round1",
+        "roundKey": "grand-finals:Round1",
+        "roundMultiplier": 1.3,
+        "matchNumber": 3,
+        "mode": "OVERLOAD",
+        "map": "DEN",
+        "score": "--.-- - 0:35",
+        "winner": "TELLURIDE BUSH GAMING",
+        "loser": "OMIT",
+        "bestTeamPerformance": {
+          "teamName": "TELLURIDE BUSH GAMING",
+          "bushAiMapScoreWeighted": 104.2524,
+          "teamWonMap": true,
+          "scoreMargin": 35.0
+        },
+        "bestPlayerPerformance": {
+          "playerName": "PROLUTE",
+          "teamName": "TELLURIDE BUSH GAMING",
+          "bushAiMapScoreWeighted": 102.2795,
+          "kills": 36,
+          "deaths": 24,
+          "damage": 4374
+        }
+      },
+      {
+        "seriesId": "grand-finals-round1-omit-vs-telluride-bush-gaming",
+        "bracket": "grand-finals",
+        "round": "Round1",
+        "roundKey": "grand-finals:Round1",
+        "roundMultiplier": 1.3,
+        "matchNumber": 4,
+        "mode": "HARDPOINT",
+        "map": "COLOSSUS",
+        "score": "250 - 238",
+        "winner": "TELLURIDE BUSH GAMING",
+        "loser": "OMIT",
+        "bestTeamPerformance": {
+          "teamName": "TELLURIDE BUSH GAMING",
+          "bushAiMapScoreWeighted": 115.3429,
+          "teamWonMap": true,
+          "scoreMargin": 12.0
+        },
+        "bestPlayerPerformance": {
+          "playerName": "Cammy",
+          "teamName": "TELLURIDE BUSH GAMING",
+          "bushAiMapScoreWeighted": 116.6129,
+          "kills": 37,
+          "deaths": 24,
+          "damage": 4377
+        }
+      },
+      {
+        "seriesId": "grand-finals-round1-omit-vs-telluride-bush-gaming",
+        "bracket": "grand-finals",
+        "round": "Round1",
+        "roundKey": "grand-finals:Round1",
+        "roundMultiplier": 1.3,
+        "matchNumber": 5,
+        "mode": "SEARCH_AND_DESTROY",
+        "map": "FRINGE",
+        "score": "4 - 6",
+        "winner": "TELLURIDE BUSH GAMING",
+        "loser": "OMIT",
+        "bestTeamPerformance": {
+          "teamName": "TELLURIDE BUSH GAMING",
+          "bushAiMapScoreWeighted": 69.4398,
+          "teamWonMap": true,
+          "scoreMargin": 2.0
+        },
+        "bestPlayerPerformance": {
+          "playerName": "Cammy",
+          "teamName": "TELLURIDE BUSH GAMING",
+          "bushAiMapScoreWeighted": 55.2761,
+          "kills": 10,
+          "deaths": 3,
+          "damage": 1241
+        }
+      }
+    ],
+    "eliminationRoundGames": [
+      {
+        "seriesId": "losers-bracket-round6-omit-brooklyn-vs-telluride-bush-gaming",
+        "bracket": "losers-bracket",
+        "round": "Round6",
+        "roundKey": "losers-bracket:Round6",
+        "roundMultiplier": 1.2,
+        "matchNumber": 1,
+        "mode": "HARDPOINT",
+        "map": "DEN",
+        "score": "159 - 250",
+        "winner": "TELLURIDE BUSH GAMING",
+        "loser": "OMIT BROOKLYN",
+        "bestTeamPerformance": {
+          "teamName": "TELLURIDE BUSH GAMING",
+          "bushAiMapScoreWeighted": 103.9151,
+          "teamWonMap": true,
+          "scoreMargin": 91.0
+        },
+        "bestPlayerPerformance": {
+          "playerName": "Cammy",
+          "teamName": "TELLURIDE BUSH GAMING",
+          "bushAiMapScoreWeighted": 102.8872,
+          "kills": 33,
+          "deaths": 19,
+          "damage": 3579
+        }
+      },
+      {
+        "seriesId": "losers-bracket-round6-omit-brooklyn-vs-telluride-bush-gaming",
+        "bracket": "losers-bracket",
+        "round": "Round6",
+        "roundKey": "losers-bracket:Round6",
+        "roundMultiplier": 1.2,
+        "matchNumber": 2,
+        "mode": "SEARCH_AND_DESTROY",
+        "map": "RAID",
+        "score": "1 - 6",
+        "winner": "OMIT BROOKLYN",
+        "loser": "TELLURIDE BUSH GAMING",
+        "bestTeamPerformance": {
+          "teamName": "OMIT BROOKLYN",
+          "bushAiMapScoreWeighted": 74.9244,
+          "teamWonMap": true,
+          "scoreMargin": 5.0
+        },
+        "bestPlayerPerformance": {
+          "playerName": "Standy",
+          "teamName": "OMIT BROOKLYN",
+          "bushAiMapScoreWeighted": 42.3708,
+          "kills": 7,
+          "deaths": 4,
+          "damage": 720
+        }
+      },
+      {
+        "seriesId": "losers-bracket-round6-omit-brooklyn-vs-telluride-bush-gaming",
+        "bracket": "losers-bracket",
+        "round": "Round6",
+        "roundKey": "losers-bracket:Round6",
+        "roundMultiplier": 1.2,
+        "matchNumber": 3,
+        "mode": "OVERLOAD",
+        "map": "DEN",
+        "score": "4 - 2",
+        "winner": "TELLURIDE BUSH GAMING",
+        "loser": "OMIT BROOKLYN",
+        "bestTeamPerformance": {
+          "teamName": "TELLURIDE BUSH GAMING",
+          "bushAiMapScoreWeighted": 92.5374,
+          "teamWonMap": true,
+          "scoreMargin": 2.0
+        },
+        "bestPlayerPerformance": {
+          "playerName": "Capsidal",
+          "teamName": "TELLURIDE BUSH GAMING",
+          "bushAiMapScoreWeighted": 80.3649,
+          "kills": 26,
+          "deaths": 21,
+          "damage": 3485
+        }
+      },
+      {
+        "seriesId": "losers-bracket-round6-omit-brooklyn-vs-telluride-bush-gaming",
+        "bracket": "losers-bracket",
+        "round": "Round6",
+        "roundKey": "losers-bracket:Round6",
+        "roundMultiplier": 1.2,
+        "matchNumber": 4,
+        "mode": "HARDPOINT",
+        "map": "SAKE",
+        "score": "211 - 250",
+        "winner": "TELLURIDE BUSH GAMING",
+        "loser": "OMIT BROOKLYN",
+        "bestTeamPerformance": {
+          "teamName": "TELLURIDE BUSH GAMING",
+          "bushAiMapScoreWeighted": 100.5945,
+          "teamWonMap": true,
+          "scoreMargin": 39.0
+        },
+        "bestPlayerPerformance": {
+          "playerName": "Capsidal",
+          "teamName": "TELLURIDE BUSH GAMING",
+          "bushAiMapScoreWeighted": 119.4468,
+          "kills": 45,
+          "deaths": 30,
+          "damage": 4971
+        }
+      }
+    ]
+  },
+  "modeStory": [],
+  "seriesSummary": [
+    {
+      "seriesId": "grand-finals-round1-omit-vs-telluride-bush-gaming",
+      "bracket": "grand-finals",
+      "round": "Round1",
+      "teams": [
+        "OMIT",
+        "TELLURIDE BUSH GAMING"
+      ],
+      "gamesCaptured": 5,
+      "seriesMapLeader": "TELLURIDE BUSH GAMING",
+      "mapWinsByTeam": {
+        "OMIT": 1,
+        "TELLURIDE BUSH GAMING": 4
+      },
+      "modes": {
+        "HARDPOINT": 2,
+        "SEARCH_AND_DESTROY": 2,
+        "OVERLOAD": 1
+      }
+    },
+    {
+      "seriesId": "losers-bracket-round5-faze-x-falcons-vs-telluride-bush-gaming",
+      "bracket": "losers-bracket",
+      "round": "Round5",
+      "teams": [
+        "FAZE FALCONS",
+        "TELLURIDE BUSH GAMING"
+      ],
+      "gamesCaptured": 3,
+      "seriesMapLeader": "TELLURIDE BUSH GAMING",
+      "mapWinsByTeam": {
+        "TELLURIDE BUSH GAMING": 3
+      },
+      "modes": {
+        "HARDPOINT": 1,
+        "SEARCH_AND_DESTROY": 1,
+        "OVERLOAD": 1
+      }
+    },
+    {
+      "seriesId": "losers-bracket-round6-omit-brooklyn-vs-telluride-bush-gaming",
+      "bracket": "losers-bracket",
+      "round": "Round6",
+      "teams": [
+        "OMIT BROOKLYN",
+        "TELLURIDE BUSH GAMING"
+      ],
+      "gamesCaptured": 4,
+      "seriesMapLeader": "TELLURIDE BUSH GAMING",
+      "mapWinsByTeam": {
+        "TELLURIDE BUSH GAMING": 3,
+        "OMIT BROOKLYN": 1
+      },
+      "modes": {
+        "HARDPOINT": 2,
+        "SEARCH_AND_DESTROY": 1,
+        "OVERLOAD": 1
+      }
+    },
+    {
+      "seriesId": "winners-bracket-round4-omit-vs-omit-brooklyn",
+      "bracket": "winners-bracket",
+      "round": "Round4",
+      "teams": [
+        "OMIT",
+        "OMIT BROOKLYN"
+      ],
+      "gamesCaptured": 4,
+      "seriesMapLeader": "OMIT",
+      "mapWinsByTeam": {
+        "OMIT": 2,
+        "OMIT BROOKLYN": 2
+      },
+      "modes": {
+        "HARDPOINT": 2,
+        "SEARCH_AND_DESTROY": 1,
+        "OVERLOAD": 1
+      }
+    }
+  ],
+  "chartData": {
+    "teamBushAiRatings": [
+      {
+        "teamName": "TELLURIDE BUSH GAMING",
+        "bushAiRating": 76.25,
+        "record": "10-2"
+      },
+      {
+        "teamName": "OMIT",
+        "bushAiRating": 44.63,
+        "record": "3-6"
+      },
+      {
+        "teamName": "OMIT BROOKLYN",
+        "bushAiRating": 45.82,
+        "record": "3-5"
+      },
+      {
+        "teamName": "FAZE FALCONS",
+        "bushAiRating": 20.14,
+        "record": "0-3"
+      }
+    ],
+    "topPlayerBushAiRatings": [
+      {
+        "playerName": "Cammy",
+        "teamName": "TELLURIDE BUSH GAMING",
+        "bushAiRating": 84.7,
+        "rankScore": 100.0
+      },
+      {
+        "playerName": "PROLUTE",
+        "teamName": "TELLURIDE BUSH GAMING",
+        "bushAiRating": 83.72,
+        "rankScore": 97.82
+      },
+      {
+        "playerName": "Abe",
+        "teamName": "TELLURIDE BUSH GAMING",
+        "bushAiRating": 78.9,
+        "rankScore": 96.36
+      },
+      {
+        "playerName": "Capsidal",
+        "teamName": "TELLURIDE BUSH GAMING",
+        "bushAiRating": 75.19,
+        "rankScore": 89.22
+      },
+      {
+        "playerName": "Ethan",
+        "teamName": "OMIT",
+        "bushAiRating": 63.97,
+        "rankScore": 69.46
+      },
+      {
+        "playerName": "dk",
+        "teamName": "OMIT",
+        "bushAiRating": 64.78,
+        "rankScore": 66.32
+      },
+      {
+        "playerName": "Killy",
+        "teamName": "OMIT",
+        "bushAiRating": 61.82,
+        "rankScore": 62.3
+      },
+      {
+        "playerName": "PaulEhx",
+        "teamName": "OMIT BROOKLYN",
+        "bushAiRating": 63.95,
+        "rankScore": 59.8
+      }
+    ],
+    "championRoster": [
+      {
+        "playerName": "Cammy",
+        "bushAiRating": 84.7,
+        "rank": 1
+      },
+      {
+        "playerName": "PROLUTE",
+        "bushAiRating": 83.72,
+        "rank": 2
+      },
+      {
+        "playerName": "Abe",
+        "bushAiRating": 78.9,
+        "rank": 3
+      },
+      {
+        "playerName": "Capsidal",
+        "bushAiRating": 75.19,
+        "rank": 4
+      }
+    ],
+    "modeBreakdownForChampion": []
+  },
+  "reportGuidance": {
+    "recommendedSections": [
+      "Hero summary",
+      "Sunday Champion team card",
+      "Awards row",
+      "Top player leaderboard",
+      "Moment of the Day",
+      "Mode breakdown",
+      "Key games"
+    ],
+    "fieldsToFeatureFirst": [
+      "heroSummary.quickFacts",
+      "awards",
+      "teamRankings",
+      "playerRankings",
+      "storylines",
+      "chartData"
+    ]
+  }
+}
