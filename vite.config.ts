@@ -4,7 +4,7 @@ import tailwindcss from "@tailwindcss/vite";
 import path from "path";
 
 export default defineConfig({
-  base: "/report1/",
+  base: "/report-major3/",
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
