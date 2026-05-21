@@ -23,7 +23,7 @@ function ReportApp() {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    fetch("/data/raw-data-final-report-view.json")
+    fetch(`${import.meta.env.BASE_URL}data/raw-data-final-report-view.json`)
       .then((res) => {
         if (!res.ok) throw new Error("Failed to load report data");
         return res.json();
